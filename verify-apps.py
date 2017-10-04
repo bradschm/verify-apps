@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import requests # You will need to install requests
 import getpass
 # Authored by Brad Schmidt on 2017-07-19
